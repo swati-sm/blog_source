@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Swati S M'
 SITENAME = 'Swadss Blog'
 SITEURL = ''
-OUTPUT_PATH='blog/output'
+OUTPUT_PATH='../output'
 PLUGIN_PATHS=['plugins/i18n_subsites/',]
 PLUGINS=['i18n_subsites',]
 JINJA_ENVIRONMENT = {
