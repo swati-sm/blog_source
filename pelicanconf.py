@@ -7,6 +7,8 @@ SITENAME = 'Swadss Blog'
 SITEURL = ''
 OUTPUT_PATH='../output'
 PLUGIN_PATHS=['plugins/i18n_subsites/',]
+STATIC_PATHS=['img']
+PAGE_PATHS=['pages']
 PLUGINS=['i18n_subsites',]
 JINJA_ENVIRONMENT = {
 'extensions': ['jinja2.ext.i18n']

@@ -45,7 +45,7 @@ All of the following code will be highlighted while the text is indented.
 
 
 ####to add an image put excalmatory mark followed by alt text within sqaure bracketsfollowed by path in curved braces.its mentioned as static coz the image is saved in the folder on system and is not a url
-![tux, the linux mascot]({static}/tux.jpeg)
+![tux, the linux mascot]({static}/img/tux.jpeg)
 
 
 ####blockquote
